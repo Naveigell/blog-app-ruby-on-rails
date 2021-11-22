@@ -1,0 +1,2 @@
+module Detail::DetailHelper
+end
